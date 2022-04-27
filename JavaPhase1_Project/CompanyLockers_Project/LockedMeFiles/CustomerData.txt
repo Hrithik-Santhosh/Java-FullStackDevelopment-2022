@@ -1,0 +1,3 @@
+Customer Name : Rohit
+DOB : 06 Nov 1997
+Gender: Male
